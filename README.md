@@ -1,16 +1,23 @@
-# chatbot
+# 🤖 RAG Chatbot for Placement Assistance
 
-A new Flutter project.
+A custom Retrieval-Augmented Generation (RAG) based chatbot designed to assist students with placement-related queries by using real data from previous student records (2023–2024). Built to provide reliable, domain-specific responses across multiple topics like eligibility, company criteria, test patterns, and more.
+---
 
-## Getting Started
+## 🔍 Overview
 
-This project is a starting point for a Flutter application.
+This chatbot leverages RAG (Retrieval-Augmented Generation) to improve the accuracy of answers by grounding responses in real placement data. It is intended to be used by engineering students and maintained by future batches to scale knowledge sharing over the years.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 💡 Key Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 💬 Answers placement-related queries based on real student experiences  
+- 📄 Integrates a custom dataset of 2023–2024 student placement info  
+- 🧠 Uses vector embeddings for context-aware retrieval  
+- 📚 RAG architecture improves factual accuracy over generic LLMs  
+- 🌐 Accessible through a simple user-friendly interface  
+- 🧪 Designed to be maintainable by future college batches
+
+---
+
+
